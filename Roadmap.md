@@ -1,0 +1,33 @@
+- [x] Planning & Roadmap - 5 Nov 23
+- [ ] Auth Service - 6 Nov 23
+- [ ] User Service - 6 Nov 23
+- [ ] Restaurant Service - 7 Nov 23
+- [ ] Delivery Service
+- [ ] Order Service
+- [ ] Communication Service
+- [ ] Payment Service
+- [ ] Elastic search
+- [ ] External APIs
+- [ ] Logger
+
+- [ ] basic backend testing
+
+- [ ] frontend
+  - [ ] User App
+    - [ ] React Native
+    - [ ] nextJS
+  - [ ] Restaurant App
+    - [ ] Electron JS
+  - [ ] Delivery App
+    - [ ] React Native
+  - [ ] Admin
+    - [ ] ReactJS
+  - [ ] landing page (JS / NextJS)
+
+- [ ] full stack testing
+- [ ] Container
+- [ ] Kubernetes
+- [ ] CI / CD
+- [ ] Swagger
+- [ ] IAC
+- [ ] Cloud
